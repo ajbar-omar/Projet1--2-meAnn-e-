@@ -1,5 +1,5 @@
 body {
-	background: #037971;
+	background:linear-gradient(123deg, #461B93 0%, #461B93 40%, #6A3CBC calc(40% + 1px), #6A3CBC 60%, #8253D7 calc(60% + 1px), #8253D7 70%, #F78F1E calc(70% + 1px), #F78F1E 100%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +15,7 @@ body {
 
 form {
 	width: 500px;
-	margin-bottom: 16px;
+	margin-bottom: 15px;
 	border: 2px solid #ccc;
 	padding: 30px;
 	background: #fff;
@@ -25,12 +25,12 @@ form {
 h2 {
 	text-align: center;
 	margin-bottom: 40px;
-	color: #049a8f;
+	color: #8253d7;
 }
 
 input {
 	display: block;
-    border: 2px solid #037971a3;
+    border: 2px solid #8253d7;
     width: 95%;
     padding: 10px;
     margin: 10px auto;
@@ -38,14 +38,14 @@ input {
     border-radius: 15px;
 }
 label {
-	color: #049a8f;
+	color: #8253d7;
 	font-size: 18px;
 	padding: 10px;
 }
 
 button {
 	float: right;
-	background: #049a8f;
+	background: #9a53d7;
 	padding: 10px 15px;
 	color: #fff;
 	border-radius: 5px;
