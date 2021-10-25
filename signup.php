@@ -45,7 +45,7 @@
                  name="password" 
                  placeholder="Password"><br>
 
-          <label>Re Password</label>
+          <label>Repeat Password</label>
           <input type="password" 
                  name="re_password" 
                  placeholder="Re_Password"><br>
